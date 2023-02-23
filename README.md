@@ -14,7 +14,7 @@
   + [`專題連結區`](https://github.com/yukai2002/PL#%E5%B0%88%E9%A1%8C%E9%80%A3%E7%B5%90%E5%8D%80)
 ---
 > ### 📝`課程筆記區`
-+ #### Week1
++ #### Week1(0223)
   + #### 1. The Iceberg Illusion
   + **2. 為甚麼需要學習程式語言?**
 + #### Week2
