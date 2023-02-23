@@ -18,16 +18,6 @@
   + #### 1. The Iceberg Illusion
   + **2. 為甚麼需要學習程式語言?**
 + #### Week2
-  + #### 使用*Jupyter Notebook*
-  + #### Python
-    + #### *int*➡️**整數**
-      #### *Ex*:罰款金額
-    + #### *float*➡️**浮點數**
-      #### *Ex*:比例
-    + #### *str*➡️**字串**
-      #### *Ex*:一串文字
-    + #### *bool*➡️**布林值**
-      #### *Ex*:*Ture&False*
 + #### Week3
 + #### Week4
 + #### Week5
