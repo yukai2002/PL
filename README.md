@@ -17,7 +17,6 @@
 + #### Week1
   + #### 1. The Iceberg Illusion
   + **2. 為甚麼需要學習程式語言?**
-  + #### 3. [*Jupyter Notebook:first hi*](https://github.com/dennis910926/PL/blob/main/hi.ipynb)
 + #### Week2
   + #### 使用*Jupyter Notebook*
   + #### Python
