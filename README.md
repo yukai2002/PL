@@ -18,7 +18,7 @@
   + #### 1. The Iceberg Illusion
   + #### 2. 為什麼要學習程式語言?
 + #### Week2
-  + #### python練習
+  + #### [python練習](https://github.com/yukai2002/PL/blob/main/Task%201.ipynb)
 + #### Week3
 + #### Week4
 + #### Week5
