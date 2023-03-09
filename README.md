@@ -26,7 +26,7 @@
 + #### Week8
 ***
 > ### 📚作業連結區
-+ #### homework1
++ #### [homework1](https://github.com/yukai2002/PL/blob/main/HW1.ipynb)
 + #### homework2
 + #### homework3
 + #### homework4
