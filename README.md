@@ -18,6 +18,7 @@
   + #### 1. The Iceberg Illusion
   + #### 2. 為什麼要學習程式語言?
 + #### Week2
+  + #### python練習
 + #### Week3
 + #### Week4
 + #### Week5
