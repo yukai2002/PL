@@ -30,7 +30,7 @@
 + #### [homework1](https://github.com/yukai2002/PL/blob/main/HW1/HW1.ipynb)
 + #### [homework2](https://nbviewer.org/github/yukai2002/PL/blob/main/homework2.ipynb)
 + #### [homework3](https://github.com/yukai2002/PL/blob/main/HW3.ipynb)
-+ #### homework4
++ #### [homework4](https://github.com/yukai2002/PL/blob/main/HW4.ipyn)
 + #### homework5
 ***
 > ### 📚專題連結區
